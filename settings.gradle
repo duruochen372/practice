@@ -1,2 +1,2 @@
-include ':app'
+include ':jni'
 rootProject.name = "practice"
