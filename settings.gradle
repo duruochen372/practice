@@ -1,2 +1,3 @@
-include ':jni'
 rootProject.name = "practice"
+include ':jni'
+include ':kotlin'
