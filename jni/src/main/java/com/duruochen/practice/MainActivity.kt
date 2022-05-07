@@ -7,7 +7,7 @@ import okhttp3.OkHttpClient
 class MainActivity : AppCompatActivity() {
     val version = 6
 
-    val version1 = 2
+    val version1 = 3
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
