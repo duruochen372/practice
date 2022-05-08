@@ -11,6 +11,8 @@ class MainActivity : AppCompatActivity() {
 
     val version2= 1
 
+    val revert1 = 1
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
