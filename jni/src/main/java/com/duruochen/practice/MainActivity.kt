@@ -7,8 +7,7 @@ import okhttp3.OkHttpClient
 class MainActivity : AppCompatActivity() {
     val version = 6
 
-    val version1 = 3
-
+    val version1 = 4
 
     val version2= 1
 
