@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
 
     val version2= 1
 
-    val revert1 = 1
+
 
     val revert2 = 2
 
